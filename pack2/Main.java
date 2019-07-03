@@ -17,3 +17,4 @@ public class Main{
 		return(productId.matches("[#]{1}[A-Z]{2,3}[ ]{1}[0-9]{2}[ ]{1}[A-Z]{2,3}[-]{1}[0-9]{2,4}"));		
 	}
 }
+
